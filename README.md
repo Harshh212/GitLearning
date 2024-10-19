@@ -1,4 +1,4 @@
 # GitLearning
-Author-Harhs cHaudhari
+Author-Harsh cHaudhari
 <br>
 Learning Git
