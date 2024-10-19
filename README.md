@@ -1,4 +1,4 @@
 # GitLearning
 Author-Harsh Chaudhari
 <br>
-Learning Git
+Learning Git with Shraddha Khapra
